@@ -7,8 +7,12 @@ The excerices below are quickly setup using [Google Colab](https://colab.researc
 
 ## Data Science
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_science_rfm.ipynb) - Retail Segmentation Excercise
+**Retail Segmentation Excercise**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_science_rfm.ipynb)
 
 ## Data Engineering
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_engineering_sql.ipynb) - SQL Excercise
+**SQL Excercise**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_engineering_sql.ipynb)
