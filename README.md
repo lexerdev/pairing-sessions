@@ -4,15 +4,7 @@ At Lexer we promote collaboration accross teams and functions to create amazing 
 
 The excerices below are quickly setup using [Google Colab](https://colab.research.google.com/) and it's recommended that you become familiar with this interface, similar to a Jupyter notebook, before starting.
 
-
-## Data Science
-
-**Retail Segmentation Excercise**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_science_rfm.ipynb)
-
-## Data Engineering
-
-**SQL Excercise**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_engineering_sql.ipynb)
+| Role             | Excercise           | Link                                                                                                                                                                                           |
+|------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Engineering | SQL                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_engineering_sql.ipynb) |
+| Data Science     | Retail Segmentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lexerdev/pairing-sessions/blob/main/notebooks/data_science_rfm.ipynb)     |
