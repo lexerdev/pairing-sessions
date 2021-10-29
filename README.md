@@ -2,7 +2,9 @@
 
 At Lexer we promote collaboration accross teams and functions to create amazing product and achieve great outcomes for our customers. We believe that pair programming is the best way to learn and grow so we've collected some starting points to work with customer data and explore common challenges we encounter.
 
-The excerices below are launched with [Google Colab](https://colab.research.google.com/) and it's recommended that you become familiar with this interface, similar to a Jupyter notebook, before starting.
+The excerices below are launched with [Google Colab](https://colab.research.google.com/) and it's recommended that you [become familiar](https://youtu.be/inN8seMm7UI) with this interface, similar to a Jupyter notebook, before starting.
+
+Once completing the excercise save a copy of your work in Google Drive so you can share it later.
 
 | Role             | Excercise           | Link                                                                                                                                                                                           |
 |------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
