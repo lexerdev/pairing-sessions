@@ -4,7 +4,7 @@ At Lexer, we promote collaboration across functions to build an amazing product 
 
 We've developed these notebooks as starting points to work with customer data and explore common challenges we encounter. 
 
-The exercises below will be launched with [Google Colab](https://colab.research.google.com/) so we recommended that you [become familiar](https://youtu.be/inN8seMm7UI) with this interface, similar to a Jupyter notebook, before starting.
+The exercises below will launch with [Google Colab](https://colab.research.google.com/) so we recommended that you [become familiar](https://youtu.be/inN8seMm7UI) with this interface, similar to a Jupyter notebook, before starting.
 
 Once completing the excercise save a copy of your work in Google Drive so you can share it later.
 
