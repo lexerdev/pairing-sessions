@@ -1,6 +1,6 @@
 # Pairing Sessions
 
-At Lexer, we promote collaboration across functions to build an amazing product and achieve outcomes for our customers. We believe pair programming is a way to achieve this and grow our skills.
+At Lexer we know collaboration is crucial to build an amazing product. Pair programming isn't just a way to grow our skills but to achieve great outcomes for our customers.
 
 We've developed these notebooks as starting points to work with customer data and explore common challenges we encounter. 
 
